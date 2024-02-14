@@ -1,2 +1,2 @@
 # APIT-TestingKatalon
-Practice API Testing with Katalon
+Practice API Testing with Katalon from Katalon Academy.
